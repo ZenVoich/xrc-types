@@ -1,0 +1,7 @@
+[package]
+name = "xrc-types"
+version = "1.0.0"
+description = "Exchange Rate Canister interface"
+repository = "https://github.com/ZenVoich/xrc-types"
+keywords = [ "xrc", "types", "exchange-rate", "exchange", "rate", "price" ]
+license = "MIT"
